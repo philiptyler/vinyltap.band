@@ -23,6 +23,12 @@ url: "https://vinyltap.band" # the base hostname & protocol for your site, e.g. 
 twitter_username: thephiliptyler
 github_username:  philiptyler
 
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+
 # Build settings
 markdown: kramdown
 theme: minima
