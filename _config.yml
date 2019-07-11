@@ -5,6 +5,11 @@ title: Vinyl Tap
 email: philip.b.tyler@gmail.com
 description: "LA's hottest cover band slinging 6 decades of rock, alternative, pop-punk, and new wave hits"
 
+plugins:
+  - jekyll-compress-images
+
+compress_images:
+  images_path: "img/**/*.{gif,png,jpg,jpeg,svg}"
 
 # Team names, titles and social links
 people:
