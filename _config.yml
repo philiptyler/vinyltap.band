@@ -8,9 +8,6 @@ description: "LA's hottest cover band slinging 6 decades of rock, alternative, p
 plugins:
   - jekyll-compress-images
 
-compress_images:
-  images_path: "img/**/*.{gif,png,jpg,jpeg,svg}"
-
 # Team names, titles and social links
 people:
 - name: Philip Tyler
