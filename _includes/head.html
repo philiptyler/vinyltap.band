@@ -3,7 +3,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
-    <meta name="description" content="{{ site.description }}">
+    <meta property="og:title" content="Vinyl Tap: LA's Hottest Cover Band">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:image" content="{{ site.image }}">
+    <meta property="og:url" content="{{ site.url }}">
+    <meta name="twitter:title" content="European Travel Destinations ">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:image" content="{{ site.thumbnail }}">
+    <meta name="twitter:card" content="{{ site.image }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
 

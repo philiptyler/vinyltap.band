@@ -1,9 +1,11 @@
-url: https://vinyltap.band
+url: https://vinyltap.band/
+image: img/card_image.jpg
+thumbnail: img/thumbnail.jpg
 
 # Site settings
 title: Vinyl Tap
 email: philip.b.tyler@gmail.com
-description: "LA's hottest cover band slinging 6 decades of rock, alternative, pop-punk, and new wave hits"
+description: "We are a professional cover band slinging 6 decades of rock, alternative, pop-punk, and new wave hits"
 
 plugins:
   - jekyll-compress-images
@@ -22,18 +24,18 @@ people:
   position: Drums
   social:
     - title: instagram
-      url: https://instagram.com/gringo_star
+      url: https://instagram.com/gringo__starr
 
 - name: Peter Stewart
   pic: peter2019
   position: Guitar & Vocals
   social:
     - title: instagram
-      url: https://instagram.com/petermstewart
+      url: https://instagram.com/peter_m_stewart
 
 - name: Oren Ben-Joseph
   pic: oren2019
-  position: Bass Guitar
+  position: Bass & Vocals
   social:
     - title: instagram
       url: https://instagram.com/orenbj
