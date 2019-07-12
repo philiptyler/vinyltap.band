@@ -11,48 +11,32 @@ plugins:
 # Team names, titles and social links
 people:
 - name: Philip Tyler
-  pic: 1
+  pic: philip2019
   position: Guitar & Vocals
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: instagram
+      url: https://instagram.com/thephiliptyler
 
 - name: Arthur Siegel
-  pic: 2
+  pic: arthur2019
   position: Drums
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+    - title: instagram
+      url: https://instagram.com/gringo_star
 
 - name: Peter Stewart
-  pic: 3
+  pic: peter2019
   position: Guitar & Vocals
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: instagram
+      url: https://instagram.com/petermstewart
 
 - name: Oren Ben-Joseph
-  pic: 3
+  pic: oren2019
   position: Bass Guitar
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: instagram
+      url: https://instagram.com/orenbj
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
